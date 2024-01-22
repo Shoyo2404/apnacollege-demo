@@ -1,5 +1,5 @@
 # apnacollege-demo
 This is my first Git Repository
 <br>
-Author - Shoaib Hussain (IAS officer)
+Author - Shoaib Hussain - AIR -1 GATE 2025  
  
